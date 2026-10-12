@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @moisturizedpotato
+/src/backend/database.py      @moisturizedpotato
+/src/backend/routers/auth.py  @moisturizedpotato
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @moisturizedpotato
